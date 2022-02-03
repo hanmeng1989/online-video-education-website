@@ -57,7 +57,7 @@
 ![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/查看视频.jpeg)
 ![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/订阅视频.jpeg)
 ### 后台界面
-![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/background/01管理员登录.jpeg)
+![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/background/01%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E9%99%86.jpeg)
 ![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/background/ip管理.jpeg)
 ![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/background/上传课程视频.jpeg)
 ![image](https://github.com/hanmeng1989/online-video-education-website/blob/main/images/background/操作日志管理.jpeg)
